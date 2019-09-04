@@ -1,0 +1,15 @@
+Check these for kaggle activity - otherwise create kaggle kernel
+
+supervised_learning - 
+
+2.1.8 - https://www.kaggle.com/blastchar/telco-customer-churn
+2.3.4 - 
+2.4.2 - https://www.kaggle.com/sdmacleod/ucr-violent-crime-table-8-2012-2016/kernels
+2.4.3 - https://www.kaggle.com/sazid28/advertising.csv
+2.4.4 - https://www.kaggle.com/sdmacleod/ucr-violent-crime-table-8-2012-2016/kernels
+
+deeper_supervised_learning - 
+
+3.1.4 - https://www.kaggle.com/sagarnildass/predicting-boston-house-prices
+3.2.6 - https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+3.3.4 - https://www.kaggle.com/uciml/adult-census-income
